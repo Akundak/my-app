@@ -1,0 +1,10 @@
+name : John
+age: 29
+isMale: true
+stuff: 
+- laptop 
+- car
+food: [pizza, donuts, coke]
+friends: 
+- name: Jane
+age: 19
